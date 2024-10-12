@@ -1,3 +1,5 @@
+This is R shiny web application I completed and below are the features. Should the features impress you and wish to have yours let me Know [STEPHEN MULINGWA](https://www.linkedin.com/in/stephen-mulingwa-105522205/)
+
 # Sales_Application
 
 ![image](https://github.com/user-attachments/assets/e86fa4c5-3b9e-4b2c-a446-41ce8b6d7bc2)
@@ -13,10 +15,36 @@ First, the application is divided into two,
 ![image](https://github.com/user-attachments/assets/3b55ada9-a2eb-4aaa-9f5e-897fa8ef2190)
 
 
-### Update App Capabilities
-1. 
+### Update App Capabilities - This is for the salesperson in the Business and the owner of the business.
 
-### Summary App Capabilities
+![image](https://github.com/user-attachments/assets/ef5a8177-f4fe-4d59-8e92-abcbaa46bd1e)
+
+![image](https://github.com/user-attachments/assets/bdcad686-4e21-4615-ad1b-1921e4dc86cf)
+
+![image](https://github.com/user-attachments/assets/69870d60-866e-43f5-874e-d01bc691a989)
+
+![image](https://github.com/user-attachments/assets/691090d3-e298-4140-89a7-a43f90a14227)
+
+![image](https://github.com/user-attachments/assets/d0419739-f9e4-4709-a174-18796847904a)
+
+1. The application is capable of adding sales of the items sold in thet particular date
+2. Updating new stock added with the busing price and Selling price
+3. Entering the expeneses of that Particular month
+4. Generating Receipt (You can purchase a receipt Phone or  any receipt Software)
+5. Closing the stock for that day this is only if you have been updating your data using the receipts.
+
+### Summary App Capabilities - This one belongs to the owner of the Business strictly.
+
+![image](https://github.com/user-attachments/assets/cbfaba49-124d-4e17-a423-bd96f47c5d2f)
+
+![image](https://github.com/user-attachments/assets/2f3da876-2d1f-480d-b355-f4f9eab7cf48)
+
+![image](https://github.com/user-attachments/assets/ddbbcfd3-4380-4698-9397-c822ec2402cc)
+
+![image](https://github.com/user-attachments/assets/5f97ca4e-3c40-4710-a5e5-d323fe021701)
+
+![image](https://github.com/user-attachments/assets/d1e5fd37-8b5d-4b04-bd2d-9401b0680a4c)
+
 1. Shows you the total investment value in the busines and total stock value.
 2. Shows you the total profit made so far, total pieces of your items remaining, most profitable day and least profitable day.
 3. Allows you as the business owner to select year and month and you are able to see total sales and total profit in that particular month.
@@ -26,12 +54,3 @@ First, the application is divided into two,
 7. There is also a plots pane, as the business owner you can see a histogram and time series plot where you can see movement of sales.
 8. There is a predictions pane showing to the business owner prediction of sales in the next 1 week, also 1 month also a time series plot.
 9. The last pane shows sales for the previous day.
-
-
-
-
-
-
-
-
-3
