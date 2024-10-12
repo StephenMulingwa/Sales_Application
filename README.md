@@ -17,15 +17,16 @@ First, the application is divided into two,
 
 ### Update App Capabilities - This is for the salesperson in the Business and the owner of the business.
 
-![image](https://github.com/user-attachments/assets/ef5a8177-f4fe-4d59-8e92-abcbaa46bd1e)
+![image](https://github.com/user-attachments/assets/1528baed-ae37-4c23-8b13-8d04fb50cdcd)
 
-![image](https://github.com/user-attachments/assets/bdcad686-4e21-4615-ad1b-1921e4dc86cf)
+![image](https://github.com/user-attachments/assets/f18b9d11-b30c-4865-b69b-979d9042b178)
 
-![image](https://github.com/user-attachments/assets/69870d60-866e-43f5-874e-d01bc691a989)
+![image](https://github.com/user-attachments/assets/145c0128-542a-4d9d-a973-1b5a8d90cc67)
 
-![image](https://github.com/user-attachments/assets/691090d3-e298-4140-89a7-a43f90a14227)
+![image](https://github.com/user-attachments/assets/cc011c22-0c75-4526-826d-3943159c70cc)
 
-![image](https://github.com/user-attachments/assets/d0419739-f9e4-4709-a174-18796847904a)
+![image](https://github.com/user-attachments/assets/017f716e-af98-431c-8d2d-c4e6291a06ce)
+
 
 1. The application is capable of adding sales of the items sold in thet particular date
 2. Updating new stock added with the busing price and Selling price
